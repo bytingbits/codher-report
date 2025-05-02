@@ -24,7 +24,7 @@ video_html = """
 
 		</style>	
 		<video autoplay muted loop id="myVideo">
-		  <source src="https://mega.nz/file/ML0gwKKB#FilNBvAw1KMr7AfpYdEnEbFA0hQAY7aZKSaqsWBnhBM")>
+		  <source src="https://mega.nz/embed/gL8DVJAS#v0N4XRIu_zblleM279bd3m5zxPReKcGc7ri8qbUcHqE">
 		  Your browser does not support HTML5 video.
 		</video>
         """
